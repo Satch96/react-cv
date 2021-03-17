@@ -12,7 +12,7 @@ class PersonalInfo extends Component{
         lastName: "",
         email: "",
         phone: "",
-        done: true
+        done: tru
       }
     }
   
